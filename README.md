@@ -11,6 +11,7 @@ My technology interests currently are:
 - [featherHttp](https://github.com/featherhttp/framework)
 - [ActivityPub](https://www.w3.org/TR/activitypub/)
 - [RSS](https://validator.w3.org/feed/docs/rss2.html)
+- [OPML](https://en.wikipedia.org/wiki/OPML)
 
 
 My hobbies are:
