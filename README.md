@@ -9,6 +9,9 @@ My technology interests currently are:
 - [ASP.NET Core](https://github.com/dotnet/aspnetcore/)
 - [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore)
 - [featherHttp](https://github.com/featherhttp/framework)
+- [ActivityPub](https://www.w3.org/TR/activitypub/)
+- [RSS](https://validator.w3.org/feed/docs/rss2.html)
+
 
 My hobbies are:
 - [Afro dance](https://twitter.com/dodyg/status/1235651881701191680)
