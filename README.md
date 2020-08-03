@@ -12,14 +12,18 @@ My technology interests currently are:
 - [ActivityPub](https://www.w3.org/TR/activitypub/)
 - [RSS](https://validator.w3.org/feed/docs/rss2.html)
 - [OPML](https://en.wikipedia.org/wiki/OPML)
+- [VueJs](https://github.com/vuejs/vue)
+- [SvelteJs](https://github.com/sveltejs/svelte)
+- [Flutter](https://github.com/flutter/flutter)
 
 
 My hobbies are:
 - [Afro dance](https://twitter.com/dodyg/status/1235651881701191680)
-- [Raising other people's cats](https://twitter.com/dodyg/status/1248128875948892160)
+- [Raising cats](https://twitter.com/dodyg/status/1248128875948892160)
 - [Starting projects and not completing them](https://github.com/dodyg)
 - [Cooking for 40 people](https://twitter.com/dodyg/status/1139790693591846912)
 - [Baking](https://twitter.com/dodyg/status/1074002311918292995)
 - [Siwa Oasis spleunkin](https://twitter.com/dodyg/status/1119610456757420032)
 - [Listening through "History of Philosophy without Gaps"](https://historyofphilosophy.net/)
+- [Reading through Frant Fanon's books](https://plato.stanford.edu/entries/frantz-fanon/)
 - Diving (still at [PADI Advanced Open Water Diver](https://www.padi.com/courses/advanced-open-water))
