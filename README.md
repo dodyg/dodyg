@@ -18,6 +18,7 @@ On my spare time I run a small desert travel outfit called [Siwawi](https://siwa
 | [VueJs](https://github.com/vuejs/vue) ||
 | [SvelteJs](https://github.com/sveltejs/svelte) ||
 | [Flutter](https://github.com/flutter/flutter) ||
+| [Dgraph](https://dgraph.io/) ||
 
 I wrote the first open source Android app written in Kotlin called [Android Rivers](https://github.com/dodyg/AndroidRivers). I think it was around version Kotlin .5. You can see in the [contributions](https://github.com/dodyg/AndroidRivers/graphs/contributors) from JetBrains Kotlin team to the project. I was a really active member of Kotlin community although eventually I lost interest in developing for Android and I couldn't use Kotlin for my day to day work at that time.
 
