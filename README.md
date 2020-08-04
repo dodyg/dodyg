@@ -1,4 +1,4 @@
-I am Dody Gunawinata. You probably know me from the rather popular [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) project.
+My name is Dody Gunawinata. You probably know me from the rather popular [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) project.
 
 I come from [a small remote island North of Indonesia](https://www.google.com/maps/place/Tarakan,+Tarakan+City,+East+Kalimantan,+Indonesia/@-2.2741662,107.61995,5.33z/data=!4m5!3m4!1s0x32138bb6231349ad:0xe8d9849640f31b7e!8m2!3d3.3273599!4d117.5785049). I am currently based in Cairo, Egypt. This is the seventh country I have worked and lived in.
 
@@ -6,12 +6,12 @@ I am a co-founder of [SilverKey Technologies](https://www.silverkeytech.com/), a
 
 On my spare time I run a small desert travel outfit called [Siwawi](https://siwawi.com/). We take people exploring the wonderful and historic Siwa Oasis and the Sahara desert.
 
-|My technology interests currently are: ||
+|Technology Interests | Social Interests |
 | -- | -- |
-|- [Orleans](https://github.com/dotnet/orleans/) ||
-|- [ASP.NET Core](https://github.com/dotnet/aspnetcore/) ||
-|- [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) ||
-|- [featherHttp](https://github.com/featherhttp/framework) ||
+|- [Orleans](https://github.com/dotnet/orleans/) | - [Global Migration](https://www.iom.int/global-migration-trends)|
+|- [ASP.NET Core](https://github.com/dotnet/aspnetcore/) | - [Climate Change](https://www.ipcc.ch/)|
+|- [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) | - [Free press](https://rsf.org/en)|
+|- [featherHttp](https://github.com/featherhttp/framework) |  |
 |- [ActivityPub](https://www.w3.org/TR/activitypub/) ||
 |- [RSS](https://validator.w3.org/feed/docs/rss2.html) ||
 |- [OPML](https://en.wikipedia.org/wiki/OPML) ||
