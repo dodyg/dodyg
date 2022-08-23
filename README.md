@@ -11,14 +11,13 @@ On my spare time I run a small desert travel outfit called [Siwawi](https://siwa
 | [Orleans](https://github.com/dotnet/orleans/) | [Global Migration](https://www.iom.int/global-migration-trends)|
 | [ASP.NET Core](https://github.com/dotnet/aspnetcore/) | [Climate Change](https://www.ipcc.ch/)|
 | [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) | [Free press](https://rsf.org/en)|
-| [featherHttp](https://github.com/featherhttp/framework) | [South East Asia](https://newnaratif.com/)  |
+| [Flutter](https://github.com/flutter/flutter) | [South East Asia](https://newnaratif.com/)  |
 | [ActivityPub](https://www.w3.org/TR/activitypub/) | [Green New Deal](https://www.sunrisemovement.org/green-new-deal) |
 | [RSS](https://validator.w3.org/feed/docs/rss2.html) | [Refugees](http://stars-egypt.org/) |
 | [OPML](https://en.wikipedia.org/wiki/OPML) | [World Heritage](https://whc.unesco.org/en/) |
 | [VueJs](https://github.com/vuejs/vue) ||
 | [SvelteJs](https://github.com/sveltejs/svelte) ||
-| [Flutter](https://github.com/flutter/flutter) ||
-| [Dgraph](https://dgraph.io/) ||
+
 
 I wrote the first open source Android app written in Kotlin called [Android Rivers](https://github.com/dodyg/AndroidRivers). I think it was around version Kotlin .5. You can see in the [contributions](https://github.com/dodyg/AndroidRivers/graphs/contributors) from JetBrains Kotlin team to the project. I was a really active member of Kotlin community although eventually I lost interest in developing for Android and I couldn't use Kotlin for my day to day work at that time.
 
