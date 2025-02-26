@@ -21,7 +21,7 @@ On my spare time I run a small desert travel outfit called [Siwawi](https://siwa
 
 I wrote the first open source Android app written in Kotlin called [Android Rivers](https://github.com/dodyg/AndroidRivers). I think it was around version Kotlin .5. You can see in the [contributions](https://github.com/dodyg/AndroidRivers/graphs/contributors) from JetBrains Kotlin team to the project. I was a really active member of Kotlin community although eventually I lost interest in developing for Android and I couldn't use Kotlin for my day to day work at that time.
 
-4 years ago I started writing [samples for ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) while I was studying for the framework. It got really popular to my surprise. I still continue to write samples because I found it as an effective learning tool for me and I am glad that many others benefit from them as well.
+9 years ago I started writing [samples for ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) while I was studying for the framework. It got really popular to my surprise. I still continue to write samples because I found it as an effective learning tool for me and I am glad that many others benefit from them as well.
 
 I am a big admirer of [Dave Winer](http://scripting.com/) for his work in RSS, Blogging and Podcasting. It's amazing what a single person can contribute to the Internet culture. 
 
