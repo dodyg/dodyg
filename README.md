@@ -6,7 +6,7 @@ I am a co-founder of [SilverKey Technologies](https://www.silverkeytech.com/), a
 
 On my spare time I run a small desert travel outfit called [Siwawi](https://siwawi.com/). We take people exploring the wonderful and historic Siwa Oasis and the Sahara desert.
 
-You can find me on BlueSky at https://bsky.app/profile/dodyg.bsky.social.
+You can find me on BlueSky at https://dodyg.bsky.social.
 
 |Technology Interests | Social Interests |
 | -- | -- |
