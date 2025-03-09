@@ -1,6 +1,6 @@
 My name is Dody Gunawinata. You probably know me from the rather popular [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) project.
 
-I come from [a small remote island North of Indonesia](https://www.google.com/maps/place/Tarakan,+Tarakan+City,+East+Kalimantan,+Indonesia/@-2.2741662,107.61995,5.33z/data=!4m5!3m4!1s0x32138bb6231349ad:0xe8d9849640f31b7e!8m2!3d3.3273599!4d117.5785049). I am currently based in Cairo, Egypt. This is the seventh country I have worked and lived in.
+I come from [a small remote island North of Indonesia](https://www.google.com/maps/place/Tarakan,+Tarakan+City,+East+Kalimantan,+Indonesia/@-2.2741662,107.61995,5.33z/data=!4m5!3m4!1s0x32138bb6231349ad:0xe8d9849640f31b7e!8m2!3d3.3273599!4d117.5785049). I am currently based in Cairo, Egypt. This is the seventh country I have worked and lived in. I was trained at [QUT, Australia](https://www.qut.edu.au/) in Software Network Engineering back in 1995. 
 
 I am a co-founder of [SilverKey Technologies](https://www.silverkeytech.com/), a software consultancy that works a lot in building software in development sector (IOM, ILO, GIZ, USAID, Egyptian Government, etc). 
 
