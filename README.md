@@ -42,4 +42,5 @@ My hobbies are:
 ## AI Stuffs
 
 - I use [GitHub Copilot](https://github.com/copilot) for SOTA models (GPT 5.5, Opus 4.8). 
-- I use [OpenCode](https://opencode.ai/), [Pi](https://pi.dev/), and [CodeAlta](https://codealta.github.io/) with [DeepSeek V4](https://www.deepseek.com/en/), [Kimi 2.7](https://www.kimi.com/code?from=kfc_overview_topbar), and [GLM 5.2](z.ai).
+- I use [OpenCode](https://opencode.ai/), [Pi](https://pi.dev/), and [CodeAlta](https://codealta.github.io/) with [DeepSeek V4](https://www.deepseek.com/en/), [Kimi 2.7](https://www.kimi.com/code?from=kfc_overview_topbar), and [GLM 5.2](https://z.ai).
+- For agent, I use [Hermes](https://hermes-agent.nousresearch.com/) and [NetClaw](https://netclaw.dev/)
