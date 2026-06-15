@@ -14,15 +14,11 @@ You can find me at https://dodyg.bsky.social and https://x.com/dodyg.
 | [ASP.NET Core](https://github.com/dotnet/aspnetcore/) | [Climate Change](https://www.ipcc.ch/)|
 | [Datastar](https://data-star.dev/) | [Free press](https://rsf.org/en)|
 | [Flutter](https://github.com/flutter/flutter) | [South East Asia](https://newnaratif.com/)  |
-| [ActivityPub](https://www.w3.org/TR/activitypub/) | [Green New Deal](https://www.sunrisemovement.org/green-new-deal) |
-| [RSS](https://validator.w3.org/feed/docs/rss2.html) | [Refugees](http://stars-egypt.org/) |
-| [OPML](https://en.wikipedia.org/wiki/OPML) | [World Heritage](https://whc.unesco.org/en/) |
-| [VueJs](https://github.com/vuejs/vue) ||
-| [SvelteJs](https://github.com/sveltejs/svelte) ||
-| [AT Protocol](https://atproto.com/) ||
+| [AT Protocol](https://atproto.com/) | [Green New Deal](https://www.sunrisemovement.org/green-new-deal) |
+| [RSS](https://validator.w3.org/feed/docs/rss2.html) [OPML](https://en.wikipedia.org/wiki/OPML) | [Refugees](http://stars-egypt.org/) |
+| [SvelteJs](https://github.com/sveltejs/svelte) [VueJs](https://github.com/vuejs/vue) | [World Heritage](https://whc.unesco.org/en/) |
 | [Tiger Beetle](https://tigerbeetle.com/) ||
-| [Elsa Workflow](https://www.elsaworkflows.io/) ||
-| [Wolverine](https://wolverinefx.net/) ||
+| [Elsa Workflow](https://www.elsaworkflows.io/) [Wolverine](https://wolverinefx.net/) ||
 | [NATS](https://nats.io/) ||
 
 
